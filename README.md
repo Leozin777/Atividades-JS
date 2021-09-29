@@ -1,5 +1,11 @@
-## Atividades/Projetos de JavaScript
+# Atividades/Projetos de JavaScript
 Irei publicar nesse repositório todos os projetos e atividades em JS de diversos curso, curso em vídeo, bootcamps e etc.
+
+## Atividade 1
+Na primeira atividade que realizei, fiz um site que pega o horário do computador do usuário e apreseta a hora para o mesmo, dependendo do horário o site apresenta uma variação de fundo, imagem e texto, essas variações acontecem caso o usuário entre de Manhã (0 horas e 11), Tarde (12 horas e 17) ou a Noite (18 horas e 24).
+
+## Atividade 2
+Na segunda atividade que realizei, fiz um site que calcula a idade do usuário e que mostra o gênero, a página pergunta em que ano o usuário nasceu e apresenta uma duas caixas de marcação, uma sendo "Masculino" e outra "Feminino".
 
 ## Tecnologias usadas
 - [HTML5](https://pt.wikipedia.org/wiki/HTML5)
