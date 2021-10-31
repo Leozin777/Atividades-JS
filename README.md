@@ -1,5 +1,5 @@
-# Atividades/Projetos de JavaScript
-Irei publicar nesse repositório todos os projetos e atividades em JS de diversos curso, curso em vídeo, bootcamps e etc.
+# Atividades/Projetos utilizando JavaScript
+Irei publicar nesse repositório todos os projetos e atividades que realizei utilizando a linguagem JS.
 
 ## Atividade 1
 Na primeira atividade que realizei, fiz um site que pega o horário do computador do usuário e apreseta a hora para o mesmo, dependendo do horário o site apresenta uma variação de fundo, imagem e texto, essas variações acontecem caso o usuário entre de Manhã (0 horas e 11), Tarde (12 horas e 17) ou a Noite (18 horas e 24).
