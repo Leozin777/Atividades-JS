@@ -13,6 +13,9 @@ Nessa terceira atividade desenvolvida, fiz um site que calcula a quantidade de p
 ## Atividade 4
 Nessa quarta atividade desenvolvida, fiz um site que mostra a tabuada que o usuário quiser, basta digitar o número na caixa de texto.
 
+## Lógica_JS
+Alguns exercícios de lógica de programação utilizando JavaScript.
+
 ## Tecnologias usadas
 - [HTML5](https://pt.wikipedia.org/wiki/HTML5)
 - [CSS3](https://pt.wikipedia.org/wiki/CSS3#:~:text=CSS3%20é%20a%20terceira%20mais,web%20(página%20de%20internet).&text=Assim%2C%20o%20CSS3%20facilitará%20o,utilização%20de%20sites%20pelos%20usuários.)
